@@ -1,5 +1,6 @@
 #Install Genie Acs  
 #bisa ikutin dokumentasi dari website genieacs ==> https://docs.genieacs.com/en/latest/installation-guide.html <==  
+#atau gunakan script berikut  
 
 
 > sudo apt install git curl -y  
